@@ -10,7 +10,7 @@ In the process of discovering my pathway into bioinformatics to join in with the
 
 ###  Activities 🐱‍👓
 
-* **Software developer with 9+ years** shipping solutions to worldwide clients.
+* Software developer with 9+ years shipping solutions to worldwide clients.
 
 * Drawing/Illustrating since 2008 creating unique art work shipped with products.
 
