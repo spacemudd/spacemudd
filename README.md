@@ -6,7 +6,7 @@ In the process of discovering my pathway into bioinformatics to join in with the
 
 * Help manifest methods and tools to identify and prevent cancer and genetic diseases from early stages.
 
-* Working in my lab running computational tests and discovering new genetic secrets. <sup>(Hint: one of my favorite movies is **[I Origin (2014)](https://www.imdb.com/title/tt2884206/)**) </sup>
+* Working in my lab running computational tests and discovering new genetic secrets. <sup>Hint: one of my favorite movies is **[I Origin (2014)](https://www.imdb.com/title/tt2884206/)** </sup>
 
 ###  Activities 🐱‍👓
 
